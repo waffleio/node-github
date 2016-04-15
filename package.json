@@ -1,5 +1,5 @@
 {
-    "name" : "github",
+    "name" : "@waffleio/github",
     "version" : "0.2.4",
     "description" : "NodeJS wrapper for the GitHub API",
     "author": "Mike de Boer <info@mikedeboer.nl>",
